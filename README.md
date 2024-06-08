@@ -13,6 +13,7 @@ This tool allows you to generate random password using numbers, words, symbols, 
 ## How to Use
 
 1. just visit the webpage of this Repo.
+   https://quicksilver-lab.github.io/Random-Password-Gen/
 
 ## Contributing
 
