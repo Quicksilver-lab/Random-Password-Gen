@@ -1,6 +1,6 @@
 # Random Generator Tool
 
-Welcome to the Random Generator Tool! 🎲
+Welcome to the Random Generator Tool!🎲
 
 This tool allows you to generate random password using numbers, words, symbols, etc.
 
